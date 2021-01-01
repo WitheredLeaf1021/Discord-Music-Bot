@@ -1,6 +1,7 @@
 # Discord-Music-Bot
 DiscordのRhythmBotの劣化版です。<br>
 PC端末内のMP3音源を通話内で再生します。<br>
+datファイルの作成はdatmaker.pyを音楽ファイルの配置されているディレクトリ内に配置して実行することで作成できます。
 
 ・コマンド<br>
 `?sele hoge.dat <num>`:
